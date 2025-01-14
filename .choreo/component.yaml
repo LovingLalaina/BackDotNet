@@ -1,0 +1,6 @@
+schemaVersion: 1.0
+endpoints:
+  - name: chat-test
+    service:
+      port: 8080
+    type: REST
