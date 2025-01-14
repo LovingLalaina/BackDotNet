@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "1be49586-5963-4fb1-bf26-2b9f2960ff85",
+    "Designation": "Payé",
+    "Description": "Période de repos rémunérée accordée annuellement aux employés.",
+    "IsCumulable": true,
+    "SoldeEachYear": 0.0
+  },
+  {
+    "Id": "c257028d-ad4c-4e7e-909b-58a5dc6d6bb3",
+    "Designation": "Maladie",
+    "Description" : "Absence autorisée pour cause de maladie, avec maintien du salaire.",
+    "IsCumulable": false,
+    "SoldeEachYear": 30.0
+  },
+  {
+    "Id": "0dd3639c-3f49-436e-bade-e3cf955c7c26",
+    "Designation": "Permission Exceptionnelle",
+    "Description" : "Absence ponctuelle accordée pour des raisons personnelles ou urgentes.",
+    "IsCumulable": false,
+    "SoldeEachYear": 5.0
+  },
+  {
+    "Id": "ddef42b2-65d9-4a78-80a3-7a8b57c27a42",
+    "Designation": "Assistance maternelle",
+    "IsCumulable": false,
+    "Description": "Période d'absence rémunérée pour une salariée avant et après l'accouchement.",
+    "SoldeEachYear": 16.0
+  },
+  {
+    "Id": "8c14953b-2ef7-42e0-b059-5374ad638576",
+    "Designation": "Récupération",
+    "Description": "Repos compensatoire pour des heures supplémentaires travaillées.",
+    "IsCumulable": false,
+    "SoldeEachYear": 10.0
+  }
+]

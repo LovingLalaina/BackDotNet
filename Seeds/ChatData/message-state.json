@@ -1,0 +1,38 @@
+[
+    {
+      "IdMessage": "d11ec5ae-8f6e-44d7-bb91-1e8a7b4edc7f",
+      "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263",
+      "IsRead": true,
+      "ReadAt": "2024-11-28T10:00:30Z"
+    },
+    {
+      "IdMessage": "85cf01c5-4a2e-4c96-b251-c1633dd1d4b6",
+      "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263",
+      "IsRead": true,
+      "ReadAt": "2024-11-28T10:01:30Z"
+    },
+    {
+      "IdMessage": "f43744c1-9c43-4e7b-bb11-25698c0155a9",
+      "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263",
+      "IsRead": true,
+      "ReadAt": "2024-11-28T10:02:30Z"
+    },
+    {
+      "IdMessage": "d11ec5ae-8f6e-44d7-bb91-1e8a7b4edc7f",
+      "IdUser": "ecbec285-51b5-4eef-ab32-32aeb10ddd20",
+      "IsRead": true,
+      "ReadAt": "2024-11-28T10:00:45Z"
+    },
+    {
+      "IdMessage": "85cf01c5-4a2e-4c96-b251-c1633dd1d4b6",
+      "IdUser": "ecbec285-51b5-4eef-ab32-32aeb10ddd20",
+      "IsRead": true,
+      "ReadAt": "2024-11-28T10:01:45Z"
+    },
+    {
+      "IdMessage": "f43744c1-9c43-4e7b-bb11-25698c0155a9",
+      "IdUser": "ecbec285-51b5-4eef-ab32-32aeb10ddd20",
+      "IsRead": false
+    }
+  ]
+  

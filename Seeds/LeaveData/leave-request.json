@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "de37e6fb-3a12-42cb-82f9-b2f95e2e039c",
+    "StartDate": "2024-09-27T12:26:23.127680",
+    "EndDate": "2024-09-29T12:26:23.127680",
+    "Status": 0,
+    "Description": "Il y a des affaires personnelles urgentes dont je dois m'occuper",
+    "IdLeaveType": "0dd3639c-3f49-436e-bade-e3cf955c7c26",
+    "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263"
+  },
+  {
+    "Id": "3ce6329d-9b72-4861-a60c-528eefa0d0e3",
+    "StartDate": "2024-09-22T12:26:23.128119",
+    "EndDate": "2024-09-28T12:26:23.128119",
+    "Status": 4,
+    "Description": "Je souhaite prendre des jours de congé payé pour me reposer et me ressourcer après tout ce travail",
+    "IdLeaveType": "1be49586-5963-4fb1-bf26-2b9f2960ff85",
+    "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263"
+  },
+  {
+    "Id": "97f6c801-1b98-4ddf-81d3-dad86ca5ae0f",
+    "StartDate": "2024-08-27T12:26:23.128746",
+    "EndDate": "2024-08-29T12:26:23.128746",
+    "Status": 2,
+    "Description": "Je sollicite une permission exceptionnelle pour assister à un mariage familial.",
+    "IdLeaveType": "1be49586-5963-4fb1-bf26-2b9f2960ff85",
+    "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263"
+  },
+  {
+    "Id": "e906a1fd-df97-4e2e-a4cb-1a7d9d20aa92",
+    "StartDate": "2024-09-25T12:26:23.128912",
+    "EndDate": "2024-09-27T12:26:23.128912",
+    "Status": 0,
+    "Description": "Je suis malheureusement atteint par la COVID-19 et nécessite quelques jours de repos pour me rétablir.",
+    "IdLeaveType": "c257028d-ad4c-4e7e-909b-58a5dc6d6bb3",
+    "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263"
+  }
+]

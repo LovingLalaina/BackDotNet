@@ -1,0 +1,24 @@
+[
+    {
+      "Id": "d11ec5ae-8f6e-44d7-bb91-1e8a7b4edc7f",
+      "Content": "Bonjour chef",
+      "CreatedAt": "2024-11-28T10:00:00Z",
+      "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263",
+      "IdDiscussion": "88ba2bb5-febd-43dd-b786-d87e4814e270"
+    },
+    {
+      "Id": "85cf01c5-4a2e-4c96-b251-c1633dd1d4b6",
+      "Content": "Bonjour, en quoi puis-je t'aider?",
+      "CreatedAt": "2024-11-28T10:01:00Z",
+      "IdUser": "ecbec285-51b5-4eef-ab32-32aeb10ddd20",
+      "IdDiscussion": "88ba2bb5-febd-43dd-b786-d87e4814e270"
+    },
+    {
+      "Id": "f43744c1-9c43-4e7b-bb11-25698c0155a9",
+      "Content": "Je viens de vous envoyer une demande de congé.",
+      "CreatedAt": "2024-11-28T10:02:00Z",
+      "IdUser": "990e339b-7e91-402a-bd9c-402aae3a6263",
+      "IdDiscussion": "88ba2bb5-febd-43dd-b786-d87e4814e270"
+    }
+  ]
+  

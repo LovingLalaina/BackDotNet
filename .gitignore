@@ -1,0 +1,6 @@
+bin
+obj
+back-dotnet.csproj.user
+.vscode
+.env
+Logs
