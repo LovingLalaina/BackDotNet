@@ -1,6 +1,11 @@
-schemaVersion: 1.0
+schemaVersion: "1.1"
 endpoints:
-  - name: chat-test
-    service:
-      port: 8080
-    type: REST
+    - name: chat-test
+      displayName: chat-test
+      service:
+        basePath: /
+        port: 8080
+      type: REST
+      networkVisibilities:
+        - Public
+      schemaFilePath: .
